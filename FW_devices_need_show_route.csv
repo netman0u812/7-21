@@ -1,0 +1,10 @@
+device,family,reason,sample_collected_file
+PAZSHDC-SEC-EXTFTD-01,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",PAZSHDC-SEC-EXTFTD-01.config
+PAZSHDC-SEC-EXTFTD-02,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",PAZSHDC-SEC-EXTFTD-02.config
+PAZSHDC-SEC-EXTFTD-03,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",PAZSHDC-SEC-EXTFTD-03.config
+PAZSHDC-SEC-EXTFTD-04,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",PAZSHDC-SEC-EXTFTD-04.config
+RRIWSDC-SEC-EXTFTD-01,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",RRIWSDC-SEC-EXTFTD-01.config
+RRIWSDC-SEC-EXTFTD-02,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",RRIWSDC-SEC-EXTFTD-02.config
+RRIWSDC-SEC-EXTFTD-03,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",RRIWSDC-SEC-EXTFTD-03.config
+RRIWSDC-SEC-EXTFTD-04,FTD,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",RRIWSDC-SEC-EXTFTD-04.config
+pdc-fw-pdchs,ASA,"Config complete (interfaces/zones present) but no static routes or dynamic routing visible -- static config export cannot show live routing, need show route from device directly",pdc-fw-pdchs.config
